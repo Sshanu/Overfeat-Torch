@@ -4,9 +4,16 @@ OverFeat is a Convolutional Network-based image classifier and feature extractor
 ## Install
 Run the [install.sh](https://github.com/Sshanu/Overfeat-Torch/blob/master/install.sh) shell script to download the model model.net
 
+```bash
+sh install.sh
+```
+
 ## Run Demo
 ### iPython Notebook Implementation :
 Run [overfeat classification.ipynb](https://github.com/Sshanu/Overfeat-Torch/blob/master/overfeat%20classification.ipynb) in iPython Notebook.
 
 ### From Terminal :
 Run [run.lua](https://github.com/Sshanu/Overfeat-Torch/blob/master/run.lua).
+```bash
+th run.lua
+```
