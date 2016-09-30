@@ -1,12 +1,8 @@
 # Overfeat-Torch
 OverFeat is a Convolutional Network-based image classifier and feature extractor from NYU.The original can be found in the repository: https://github.com/sermanet/OverFeat. This is an implementation of this in Itorch Notebook.It loads weights from OverFeat and construct a network for vanilla Torch7. 
 
-## Install
-Run the [install.sh](https://github.com/Sshanu/Overfeat-Torch/blob/master/install.sh) shell script to download the model model.net
-
-```bash
-sh install.sh
-```
+## Download 
+Download the model [model.net](https://drive.google.com/open?id=0B8bmgDbwE_77ZDNBeW45bVdsT0U) and place it in the current directory
 
 ## Run Demo
 ### iPython Notebook Implementation :
